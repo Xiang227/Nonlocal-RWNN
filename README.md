@@ -1,4 +1,4 @@
-# Nonlocal-RWNN: Recurrent Random-Walk Aggregation for Node Classification
+# Nonlocal-RWNN: Exploring Nonlocal Random Walks in Non-Convolutional Graph Neural Networks
 
 Recurrent, walk-based graph learning for node classification with **two interchangeable walkers**:
 
